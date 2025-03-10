@@ -24,5 +24,5 @@ This project aims to develop a customer churn prediction model for **DMResources
 ## Installation & Requirements
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/DMR-Churn-Prediction.git
-cd DMR-Churn-Prediction
+git clone https://github.com/your-username/Customer-Churn-Prediction.git
+cd Customer-Churn-Prediction
